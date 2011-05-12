@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CGBFoundation' target in the 'CGBFoundation' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
